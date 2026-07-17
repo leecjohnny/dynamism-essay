@@ -3,6 +3,8 @@
 A single-essay website built with React, Vite, Bun, and Cloudflare Workers
 through Vinext and the Cloudflare Vite plugin.
 
+[Read the live essay](https://dynamism-supercomputing-race.lee-c-johnny.workers.dev)
+
 The essay is rendered from structured content in `app/essay-content.json`.
 Original document images live in `public/assets/essay/`, with provenance,
 captions, dimensions, source links, and accessibility text recorded in
